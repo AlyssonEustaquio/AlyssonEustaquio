@@ -10,7 +10,7 @@ Desenvolvedor Full Stack Junior apaixonado por criar soluções web modernas e e
 
 - 🔭 Atualmente trabalhando em **projetos full stack** com Angular e NestJS
 - 🌱 Aprendendo **novas tecnologias** e aprimorando habilidades
-- 👯 Procurando **oportunidades como desenvolvedor júnior**
+- 💼 Procurando **oportunidades como desenvolvedor júnior**
 - 💬 Me pergunte sobre **Angular, NestJS, TypeScript**
 - 📍 **Sorocaba, SP**
 - ⚡ Fato curioso: **Adoro transformar ideias em código!**
