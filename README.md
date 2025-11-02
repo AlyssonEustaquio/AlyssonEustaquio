@@ -24,6 +24,8 @@ Desenvolvedor Full Stack Junior apaixonado por criar soluções web modernas e e
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Backend
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -89,6 +91,16 @@ Desenvolvedor Full Stack Junior apaixonado por criar soluções web modernas e e
 - 📱 **Desenvolvimento de aplicações web modernas**
 - 🔧 **Conhecimento em Docker e bancos de dados**
 
+## 🎓 Formação
+
+### 📖 Curso Completo de Desenvolvimento Web
+**Udemy** - [Curso Web Moderno Completo](https://www.udemy.com/course/curso-web/)
+- HTML5, CSS3, JavaScript ES6+
+- Bootstrap, jQuery, React
+- Node.js, Express, MongoDB
+- Webpack, Gulp, SASS
+- **500+ horas** de conteúdo prático
+
 ## 📚 Sempre Aprendendo
 
 ```typescript
@@ -101,6 +113,7 @@ const alysson = {
     database: ['PostgreSQL', 'MySQL', 'SQLite'],
     tools: ['Docker', 'Git', 'GitHub']
   },
+  education: 'Curso Web Moderno Completo - Udemy',
   currentFocus: 'Desenvolvendo soluções full stack modernas',
   lookingFor: 'Oportunidades como desenvolvedor júnior',
   funFact: 'Transformo café em código! ☕'
